@@ -1,0 +1,3 @@
+[submodule "arm-linux-androideabi-4.6"]
+	path = arm-linux-androideabi-4.6
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6
